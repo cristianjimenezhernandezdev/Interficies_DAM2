@@ -6,12 +6,8 @@
         xmlns:local="clr-namespace:Sessio1"
         mc:Ignorable="d"
         Title="Creacio Nom" Height="600" Width="525">
-    <StackPanel>
-        <Label Content="Nom"></Label>
-        <TextBox Width="525" Height="30" Text="{Binding Path=nom, Mode=TwoWay}"></TextBox>
-        <Label Content="Cognom"></Label>
-        <TextBox Width="525" Height="30" Text="{Binding Path=cognom, Mode=TwoWay}"></TextBox>
-        <Label Content="Nom Complet"></Label>
-        <TextBox Width="525" Height="30" Text="{Binding Path=nom_complet, Mode=TwoWay}"></TextBox>
-    </StackPanel>
+    <Grid>
+        <Button Content="Enviar" Width="150" Height="90" FontSize="24"/>
+
+    </Grid>
 </Window>
