@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# ReSharper/JetBrains
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# Test results
+[Tt]est[Rr]esults/
+
+# Others
+*.dbmdl
+*.jfm
+*.opendb
