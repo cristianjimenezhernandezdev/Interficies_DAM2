@@ -6,18 +6,5 @@
         xmlns:local="clr-namespace:Sessio1"
         mc:Ignorable="d"
         Title="Creacio Nom" Height="600" Width="525">
-    <Grid>
-        <Button>
-            <Button.Width>150</Button.Width>
-            <Button.Height>90</Button.Height>
-            <Button.Content>
-                <WrapPanel>
-                    <TextBlock Foreground="Azure">Hola</TextBlock>
-                    <TextBlock Foreground="DarkOrange">Nom Usuari</TextBlock>
-                    <TextBlock Foreground="DarkGreen">Campalans</TextBlock>
-                </WrapPanel>
-            </Button.Content>
-        </Button>
 
-    </Grid>
 </Window>
