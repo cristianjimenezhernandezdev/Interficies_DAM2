@@ -7,7 +7,17 @@
         mc:Ignorable="d"
         Title="Creacio Nom" Height="600" Width="525">
     <Grid>
-        <Button Content="Enviar" Width="150" Height="90" FontSize="24"/>
+        <Button>
+            <Button.Width>150</Button.Width>
+            <Button.Height>90</Button.Height>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Azure">Hola</TextBlock>
+                    <TextBlock Foreground="DarkOrange">Nom Usuari</TextBlock>
+                    <TextBlock Foreground="DarkGreen">Campalans</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
 
     </Grid>
 </Window>
