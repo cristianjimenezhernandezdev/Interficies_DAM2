@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{700F6AA1-5EF1-4D6E-8F91-C6EF7C164DE7}|NotifyChange\\NotifyChange.csproj|c:\\cristian\\dam2\\interficies\\programes\\sessio_5_plus\\notifychange\\unirnom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700F6AA1-5EF1-4D6E-8F91-C6EF7C164DE7}|NotifyChange\\NotifyChange.csproj|solutionrelative:notifychange\\unirnom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F6AA1-5EF1-4D6E-8F91-C6EF7C164DE7}|NotifyChange\\NotifyChange.csproj|c:\\cristian\\dam2\\interficies\\programes\\sessio_5_plus\\notifychange\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700F6AA1-5EF1-4D6E-8F91-C6EF7C164DE7}|NotifyChange\\NotifyChange.csproj|solutionrelative:notifychange\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700F6AA1-5EF1-4D6E-8F91-C6EF7C164DE7}|NotifyChange\\NotifyChange.csproj|c:\\cristian\\dam2\\interficies\\programes\\sessio_5_plus\\notifychange\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{700F6AA1-5EF1-4D6E-8F91-C6EF7C164DE7}|NotifyChange\\NotifyChange.csproj|solutionrelative:notifychange\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\NotifyChange\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NotifyChange\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\NotifyChange\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NotifyChange\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:16:52.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnirNom.cs",
+              "DocumentMoniker": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\NotifyChange\\UnirNom.cs",
+              "RelativeDocumentMoniker": "NotifyChange\\UnirNom.cs",
+              "ToolTip": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\NotifyChange\\UnirNom.cs",
+              "RelativeToolTip": "NotifyChange\\UnirNom.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:57:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\NotifyChange\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NotifyChange\\MainWindow.xaml",
+              "ToolTip": "C:\\Cristian\\DAM2\\Interficies\\Programes\\Sessio_5_plus\\NotifyChange\\MainWindow.xaml",
+              "RelativeToolTip": "NotifyChange\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T16:49:52.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

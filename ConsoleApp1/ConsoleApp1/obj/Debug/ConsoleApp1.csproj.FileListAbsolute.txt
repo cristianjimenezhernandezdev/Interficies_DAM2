@@ -1,0 +1,7 @@
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Cristian\DAM2\Interficies\Programes\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

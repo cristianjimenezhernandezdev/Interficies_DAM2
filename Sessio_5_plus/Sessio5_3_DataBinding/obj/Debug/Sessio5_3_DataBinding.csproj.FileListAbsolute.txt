@@ -1,0 +1,16 @@
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\bin\Debug\Sessio5_3_DataBinding.exe.config
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\bin\Debug\Sessio5_3_DataBinding.exe
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\bin\Debug\Sessio5_3_DataBinding.pdb
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.csproj.AssemblyReference.cache
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\MainWindow.g.cs
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\App.g.cs
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding_MarkupCompile.cache
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding_MarkupCompile.lref
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\MainWindow.baml
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.g.resources
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.Properties.Resources.resources
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.csproj.GenerateResource.cache
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.csproj.CoreCompileInputs.cache
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.exe
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.pdb
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio5_3_DataBinding\obj\Debug\Sessio5_3_DataBinding.exe.config

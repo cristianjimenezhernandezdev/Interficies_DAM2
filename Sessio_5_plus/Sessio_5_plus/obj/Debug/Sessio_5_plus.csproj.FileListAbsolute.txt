@@ -1,0 +1,5 @@
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio_5_plus\obj\Debug\Sessio_5_plus.csproj.AssemblyReference.cache
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio_5_plus\obj\Debug\MainWindow.g.cs
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio_5_plus\obj\Debug\App.g.cs
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio_5_plus\obj\Debug\Sessio_5_plus_MarkupCompile.cache
+C:\Cristian\DAM2\Interficies\Programes\Sessio_5_plus\Sessio_5_plus\obj\Debug\Sessio_5_plus_MarkupCompile.lref

@@ -1,0 +1,16 @@
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\MainWindow.g.cs
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\App.g.cs
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox_MarkupCompile.cache
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox_MarkupCompile.lref
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\MainWindow.baml
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.g.resources
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.pdb
+C:\Cristian\DAM2\Interficies\Programes\ListBox\ListBox\ListBox\obj\Debug\ListBox.exe.config

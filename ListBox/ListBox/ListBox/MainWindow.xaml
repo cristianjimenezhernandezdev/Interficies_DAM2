@@ -1,0 +1,40 @@
+﻿<Window x:Class="ListBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="200"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListBox Name="llistaPoblacions" HorizontalAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding Path=poblacio1}" />                        
+                        <TextBlock Grid.Column="1" Text="{Binding Path=temperatura1}" />
+                        <TextBlock Grid.Column="2" Text="{Binding Path=poblacio2}" />
+                        <TextBlock Grid.Column="3" Text="{Binding Path=temperatura2}" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp"/>
+                        
+                            <ProgressBar Grid.Column="4" Minimum="0" Maximum="100" Value="{Binding Path=barra}" Height="20" VerticalAlignment="Center"/>
+                            
+                           
+                        
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Grid.Row="1" Click="Button_Click">Clica!!</Button>
+    </Grid>
+</Window>
