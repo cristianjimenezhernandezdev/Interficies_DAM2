@@ -7,6 +7,33 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <ComboBox Name="Poblacions">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Path=NomPoblacions}" FontSize="12"/>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="100">
+            <Label FontSize="16" FontWeight="Bold">
+                Països
+            </Label>
+            <CheckBox Name="TotesP" IsThreeState="True">
+                Afegir Totes                
+            </CheckBox>
+            <StackPanel>
+                <CheckBox Name="Espanya">Espanya</CheckBox>
+                <CheckBox Name="China">China</CheckBox>
+                <CheckBox Name="UK">UK</CheckBox>
+                <CheckBox Name="Italia">Italia</CheckBox>
+                <CheckBox Name="Portugal">Portugal</CheckBox>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>

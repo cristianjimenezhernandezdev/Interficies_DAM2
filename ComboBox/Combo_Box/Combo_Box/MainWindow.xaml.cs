@@ -23,6 +23,17 @@ namespace Combo_Box
         public MainWindow()
         {
             InitializeComponent();
+            List<Poblacions> llistaPoblacions = new List<Poblacions>();
+            llistaPoblacions.Add(new Poblacions() { NomPoblacions = "Osor"});
+            llistaPoblacions.Add(new Poblacions() { NomPoblacions = "Angles" });
+            llistaPoblacions.Add(new Poblacions() { NomPoblacions = "Amer" });
+            llistaPoblacions.Add(new Poblacions() { NomPoblacions = "Girona" });
+            Poblacions.ItemsSource = llistaPoblacions;
         }
+    }
+    public class Poblacions
+    {
+        public string NomPoblacions {  get; set; }
+
     }
 }
