@@ -24,5 +24,33 @@ namespace Radi
         {
             InitializeComponent();
         }
+
+        private void RadioButton_Click(object sender, RoutedEventArgs e)
+        {
+            eVermell.Visibility = Visibility.Visible;
+            eGroc.Visibility = Visibility.Hidden;
+            eVerd.Visibility = Visibility.Hidden;
+
+        }
+
+        private void RadioButton_Click_1(object sender, RoutedEventArgs e)
+        {
+            eGroc.Visibility = Visibility.Visible;
+            eVerd.Visibility = Visibility.Hidden;
+            eVermell.Visibility = Visibility.Hidden;
+        }
+
+        private void RadioButton_Click_2(object sender, RoutedEventArgs e)
+        {
+            eVerd.Visibility = Visibility.Visible;
+            eGroc.Visibility = Visibility.Hidden;
+            eVermell.Visibility = Visibility.Hidden;
+        }
+
+
+
+
+
+
     }
 }

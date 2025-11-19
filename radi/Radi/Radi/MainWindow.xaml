@@ -7,6 +7,46 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock FontSize="45" TextAlignment="Center">Semafor</TextBlock>
+
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <RadioButton Margin="50,20,100,80" Click="RadioButton_Click">
+                        <TextBlock>
+                            Vermell
+                        </TextBlock>
+                    </RadioButton>
+                    <RadioButton Margin="50,20,100,80" Click="RadioButton_Click_1">
+                        <TextBlock>
+Groc
+                        </TextBlock>
+                    </RadioButton>
+                    <RadioButton Margin="50,20,100,80" Click="RadioButton_Click_2">
+                        <TextBlock>
+Verd
+                        </TextBlock>
+                    </RadioButton>
+                </StackPanel>
+                <Grid Grid.Column="1">
+                    <Image Source="C:\Cristian\DAM2\Interficies\Programes\radi\Radi\Radi\img\00semafor2.jpg"></Image>
+                    <Ellipse Name="eVermell" Fill="Red" Margin="164,95,170,240" Visibility="Hidden"/>
+                    <Ellipse Name="eGroc" Fill="Orange" Margin="164,168,170,168" Visibility="Hidden"/>
+                    <Ellipse Name="eVerd" Fill="Green" Margin="164,249,170,86" Visibility="Hidden"/>
+                </Grid>
+                
+            </Grid>
+        </StackPanel>
+
     </Grid>
 </Window>
