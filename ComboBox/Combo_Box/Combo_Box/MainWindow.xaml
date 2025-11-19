@@ -24,15 +24,15 @@
             <Label FontSize="16" FontWeight="Bold">
                 Països
             </Label>
-            <CheckBox Name="TotesP" IsThreeState="True">
+            <CheckBox Name="TotesP" IsThreeState="True" Checked="TotesP_Checked_1" Unchecked="TotesP_UChecked">
                 Afegir Totes                
             </CheckBox>
             <StackPanel>
-                <CheckBox Name="Espanya">Espanya</CheckBox>
-                <CheckBox Name="China">China</CheckBox>
-                <CheckBox Name="UK">UK</CheckBox>
-                <CheckBox Name="Italia">Italia</CheckBox>
-                <CheckBox Name="Portugal">Portugal</CheckBox>
+                <CheckBox Name="Espanya" Checked="Idividual_Checked" Unchecked="Idividual_UChecked">Espanya</CheckBox>
+                <CheckBox Name="China" Checked="Idividual_Checked" Unchecked="Idividual_UChecked">China</CheckBox>
+                <CheckBox Name="UK" Checked="Idividual_Checked" Unchecked="Idividual_UChecked">UK</CheckBox>
+                <CheckBox Name="Italia" Checked="Idividual_Checked" Unchecked="Idividual_UChecked">Italia</CheckBox>
+                <CheckBox Name="Portugal" Checked="Idividual_Checked" Unchecked="Idividual_UChecked">Portugal</CheckBox>
             </StackPanel>
         </StackPanel>
     </Grid>
